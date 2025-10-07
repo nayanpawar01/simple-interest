@@ -9,3 +9,6 @@ This project is a simple shell script to calculate simple interest based on user
 Run the script using:
 ```bash
 bash simple-interest.sh
+
+Simple Interest = (Principal × Rate × Time) / 100
+
