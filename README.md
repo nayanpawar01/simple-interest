@@ -1,5 +1,5 @@
 # simple-interest
-Shell script to calculate simple interest
+Shell script to calculate simple interest!!
 
 # Simple Interest Calculator 💰
 
